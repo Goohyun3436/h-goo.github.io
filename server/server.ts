@@ -17,6 +17,7 @@ app.use(cors());
 app.get("/", (req: Request, res: Response) => {
   res.send("server testing ok");
 });
+
 app.get("/data/1", (req: Request, res: Response) => {
   res.json({
     id: 1,
@@ -25,6 +26,7 @@ app.get("/data/1", (req: Request, res: Response) => {
     job: "developer",
   });
 });
+
 app.get("/data/2", (req: Request, res: Response) => {
   res.json({
     id: 2,
@@ -33,4 +35,5 @@ app.get("/data/2", (req: Request, res: Response) => {
     job: "student",
   });
 });
+
 app.listen(PORT, () => console.log("server running..."));
