@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goohyun3436.github.io/h-goo.github.io/",
+  "homepage": "https://Goohyun3436.github.io/h-goo.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
