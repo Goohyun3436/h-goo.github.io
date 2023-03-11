@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/h-goo.github.io/static/js/main.9fcd6b2c.js",
-    "index.html": "/h-goo.github.io/index.html",
-    "main.9fcd6b2c.js.map": "/h-goo.github.io/static/js/main.9fcd6b2c.js.map"
+    "main.js": "https://Goohyun3436.github.io/h-goo.github.io/static/js/main.b706c8a9.js",
+    "index.html": "https://Goohyun3436.github.io/h-goo.github.io/index.html",
+    "main.b706c8a9.js.map": "https://Goohyun3436.github.io/h-goo.github.io/static/js/main.b706c8a9.js.map"
   },
   "entrypoints": [
-    "static/js/main.9fcd6b2c.js"
+    "static/js/main.b706c8a9.js"
   ]
 }
