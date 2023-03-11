@@ -31,6 +31,10 @@ const Charts = () => {
       pointFormat: "{point.x:%e. %b}: {point.y:.2f} m",
     },
 
+    accessibility: {
+      enabled: false,
+    },
+
     plotOptions: {
       series: {
         marker: {
