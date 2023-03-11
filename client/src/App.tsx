@@ -7,12 +7,10 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <Router>
-        <Routes>
-          <Route path="/" element={<Main />} />
-          <Route path="/apitest" element={<ApiTest />} />
-        </Routes>
-      </Router>
+      <Routes>
+        <Route path="/" element={<Main />} />
+        <Route path="/apitest" element={<ApiTest />} />
+      </Routes>
     </>
   );
 }
